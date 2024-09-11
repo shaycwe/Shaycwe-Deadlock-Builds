@@ -5,7 +5,7 @@
 * [**Youtube**](https://www.youtube.com/@shaycwe)
 * [**Twitter**](https://x.com/shaycwe)
 
-## [Infernus Build]
+## [Infernus]
 
 ![image](https://github.com/user-attachments/assets/8b01879a-1e2c-4f61-9cd9-3a9b3df21e9a)
 
