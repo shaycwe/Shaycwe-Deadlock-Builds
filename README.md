@@ -11,5 +11,6 @@
 
 ## [Mo & Krill]
 
-![image](https://github.com/user-attachments/assets/23da7f45-ca47-4c46-ab94-2f8bf8037c93)
+![image](https://github.com/user-attachments/assets/58ce12ef-773b-4d12-84b8-ae2fa3c0f368)
+
 
