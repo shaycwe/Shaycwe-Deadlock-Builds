@@ -1,5 +1,6 @@
 # * shaycwe Deadlock Builds *
 
+* [**Twitch**](https://twitch.tv/shaycwe)
 * [**Discord**](https://discord.gg/9neGGz8pgs)
 * [**Youtube**](https://www.youtube.com/@shaycwe)
 * [**Twitter**](https://x.com/shaycwe)
