@@ -5,7 +5,8 @@
 * [**Twitter**](https://x.com/shaycwe)
 
 ## [Infernus Build]
-![](https://imgur.com/a/faX6v0O)
+![image](https://github.com/user-attachments/assets/11188c0e-7165-408c-8680-01a81f394954)
+
 
 ## [Mo & Krill]
 ![](https://imgur.com/a/4L4fXp5)
