@@ -9,4 +9,5 @@
 
 
 ## [Mo & Krill]
-![](https://imgur.com/a/4L4fXp5)
+![image](https://github.com/user-attachments/assets/23da7f45-ca47-4c46-ab94-2f8bf8037c93)
+
