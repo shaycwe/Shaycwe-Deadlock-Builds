@@ -7,7 +7,7 @@
 
 ## Infernus
 
-![image](https://github.com/user-attachments/assets/8b01879a-1e2c-4f61-9cd9-3a9b3df21e9a)
+![image](https://github.com/user-attachments/assets/df9315af-d142-4d19-8707-7d645179f4bc)
 
 ## Mo & Krill
 
