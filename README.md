@@ -5,7 +5,7 @@
 * [**Youtube**](https://www.youtube.com/@shaycwe)
 * [**Twitter**](https://x.com/shaycwe)
 
-If you want to use any of the below builds in-game, navigate to **Public** tab and search 'shaycwe' in the searchbox on the top-right (screenshot below).
+If you want to use any of the below builds in-game, navigate to the **Public** tab and search 'shaycwe' in the searchbox on the top-right (screenshot below).
 
 ![image](https://github.com/user-attachments/assets/ddee5de7-894e-4832-8f5d-fb560cbe4703)
 
