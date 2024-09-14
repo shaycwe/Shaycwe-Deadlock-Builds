@@ -24,7 +24,8 @@ If you want to use any of the below builds in-game, navigate to the **Public** t
 
 ## Haze
 
-![image](https://github.com/user-attachments/assets/1333b033-acf6-4797-a5e2-530ae7e74c53)
+![image](https://github.com/user-attachments/assets/36459dcc-dae8-494b-b1e3-9b31c30231dd)
+
 
 
 
