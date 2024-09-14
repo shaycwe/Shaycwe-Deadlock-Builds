@@ -26,6 +26,10 @@ If you want to use any of the below builds in-game, navigate to the **Public** t
 
 ![image](https://github.com/user-attachments/assets/36459dcc-dae8-494b-b1e3-9b31c30231dd)
 
+## Seven
+
+![image](https://github.com/user-attachments/assets/b1458cff-39bd-46ae-9139-95da30c1b0a1)
+
 
 
 
