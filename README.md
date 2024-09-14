@@ -12,7 +12,7 @@ If you want to use any of the below builds in-game, navigate to the **Public** t
 
 ## Infernus
 
-![image](https://github.com/user-attachments/assets/fd18eeec-7389-42d6-86ac-2091c25407f7)
+![image](https://github.com/user-attachments/assets/1ecd7fe1-a2cf-4c13-9a28-cb293ff56d78)
 
 ## Mo & Krill
 
