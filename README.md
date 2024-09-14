@@ -1,5 +1,7 @@
 # * shaycwe Deadlock Builds *
 
+All builds on this page are constantly updating and refining, so if using in-game expect to see changes from time to time.
+
 * [**Twitch**](https://twitch.tv/shaycwe)
 * [**Discord**](https://discord.gg/9neGGz8pgs)
 * [**Youtube**](https://www.youtube.com/@shaycwe)
