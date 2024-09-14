@@ -29,8 +29,7 @@ All builds on this page are constantly updating and refining, so if using in-gam
 
 ## Seven
 
-![image](https://github.com/user-attachments/assets/96b9d4bc-2394-4cc3-86ba-bcc755df8805)
-
+![image](https://github.com/user-attachments/assets/b7fff9f3-717f-43d5-b18e-63c59ca64c60)
 
 
 
