@@ -1,7 +1,5 @@
 # * shaycwe Deadlock Builds *
 
-All builds on this page are constantly updating and refining, so if using in-game expect to see changes from time to time.
-
 * [**Twitch**](https://twitch.tv/shaycwe)
 * [**Discord**](https://discord.gg/9neGGz8pgs)
 * [**Youtube**](https://www.youtube.com/@shaycwe)
@@ -11,6 +9,7 @@ If you want to use any of the below builds in-game, navigate to the **Public** t
 
 ![image](https://github.com/user-attachments/assets/ddee5de7-894e-4832-8f5d-fb560cbe4703)
 
+All builds on this page are constantly updating and refining, so if using in-game expect to see changes from time to time.
 
 ## Infernus
 
