@@ -21,7 +21,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Bepop
 
-![image](https://github.com/user-attachments/assets/383d06c4-b336-4aaf-ab07-de9c703f1c30)
+![image](https://github.com/user-attachments/assets/9be944ac-495b-47ff-874b-d7774bce2495)
 
 ## Haze
 
