@@ -29,7 +29,8 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Seven
 
-![image](https://github.com/user-attachments/assets/c7e81bfb-19ba-4d98-a138-432568ed2b7f)
+![image](https://github.com/user-attachments/assets/837b46d6-2f36-4fbb-b103-d0817cb10991)
+
 
 
 
