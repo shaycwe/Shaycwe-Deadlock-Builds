@@ -13,7 +13,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Infernus
 
-![image](https://github.com/user-attachments/assets/c8df5131-791a-4983-b2f5-8b5753baa4b6)
+![image](https://github.com/user-attachments/assets/25a1cb9c-9a94-4491-bd85-29dfd9842ff6)
 
 ## Mo & Krill
 
