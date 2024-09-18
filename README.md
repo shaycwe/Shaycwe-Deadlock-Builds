@@ -17,7 +17,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Mo & Krill
 
-![image](https://github.com/user-attachments/assets/962402ec-4b7f-4114-a787-204cf9cd222c)
+![image](https://github.com/user-attachments/assets/0c8d2132-90c1-4162-ab09-7b3644a1ba1a)
 
 ## Bepop
 
