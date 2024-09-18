@@ -25,7 +25,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Haze
 
-![image](https://github.com/user-attachments/assets/ed6b6cd5-ff1d-4156-8ecb-a87a6332c1e6)
+![image](https://github.com/user-attachments/assets/937868fe-c2c1-47e5-9320-6f688ee48a90)
 
 ## Seven
 
