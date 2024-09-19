@@ -23,10 +23,6 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ![image](https://github.com/user-attachments/assets/9be944ac-495b-47ff-874b-d7774bce2495)
 
-## Haze
-
-![image](https://github.com/user-attachments/assets/e6cebb10-f064-4b8a-887f-bb57f7bdd6dc)
-
 ## Seven
 
 ![image](https://github.com/user-attachments/assets/9df34ba7-1138-4580-83d2-9878d3039a56)
