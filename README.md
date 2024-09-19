@@ -21,7 +21,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Seven
 
-![image](https://github.com/user-attachments/assets/9df34ba7-1138-4580-83d2-9878d3039a56)
+![image](https://github.com/user-attachments/assets/02b013cd-e4d9-49de-ab7a-d749f58283b2)
 
 ## Mo & Krill
 
