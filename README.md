@@ -13,7 +13,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Infernus
 
-![image](https://github.com/user-attachments/assets/bb6444cd-e240-43bf-9bb0-659cca4615e3)
+![image](https://github.com/user-attachments/assets/efa2bb78-1253-4b86-9221-81f43f1106e4)
 
 ## Bepop
 
