@@ -7,7 +7,7 @@
 
 If you want to use any of the below builds in-game, navigate to the **Public** tab and search 'shaycwe' in the searchbox on the top-right (screenshot below).
 
-![image](https://github.com/user-attachments/assets/38457597-9f67-439b-98fc-008a07b2a8d4)
+![image](https://github.com/user-attachments/assets/bc3c8258-cff7-45c1-98e7-39587ae25756)
 
 All builds on this page are constantly updating and refining, so if using them in-game, expect to see changes from time to time.
 
