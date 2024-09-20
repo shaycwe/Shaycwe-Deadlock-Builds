@@ -17,7 +17,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Bepop
 
-![image](https://github.com/user-attachments/assets/8d63f52b-f496-4802-8ae3-1ff7c0c77913)
+![image](https://github.com/user-attachments/assets/59bf2d11-b075-4361-bfa8-01e6b38d6ecb)
 
 ## Seven
 
