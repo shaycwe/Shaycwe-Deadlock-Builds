@@ -29,7 +29,8 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Ivy
 
-![image](https://github.com/user-attachments/assets/a6240e1e-1346-4812-8cf1-7e77241b42f2)
+![image](https://github.com/user-attachments/assets/cb67c3ae-902d-4a0d-87a3-bd6e82b672d5)
+
 
 
 
