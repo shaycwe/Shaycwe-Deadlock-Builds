@@ -17,7 +17,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Ivy (Spirit)
 
-![image](https://github.com/user-attachments/assets/a89508ee-d77a-46fe-929e-83509a76a9cc)
+![image](https://github.com/user-attachments/assets/1a5b4d00-506d-457d-b86f-de98adc84a41)
 
 ## Infernus
 
