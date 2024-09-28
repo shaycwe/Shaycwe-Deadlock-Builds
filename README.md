@@ -13,7 +13,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Ivy (Gun)
 
-![image](https://github.com/user-attachments/assets/672ae3fc-a8d2-4b6a-8920-d3f6e9c51a1e)
+![image](https://github.com/user-attachments/assets/e8588b66-31a8-44ee-9144-8016fe7787b7)
 
 ## Ivy (Spirit)
 
