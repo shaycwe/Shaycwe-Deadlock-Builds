@@ -11,6 +11,14 @@ If you want to use any of the below builds in-game, navigate to the **Public** t
 
 All builds on this page are constantly updating and refining, so if using them in-game, expect to see changes from time to time.
 
+## Ivy (Gun)
+
+![image](https://github.com/user-attachments/assets/672ae3fc-a8d2-4b6a-8920-d3f6e9c51a1e)
+
+## Ivy (Spirit)
+
+![image](https://github.com/user-attachments/assets/8e22b93f-a022-4d9b-90b9-a6c82ceaab19)
+
 ## Infernus
 
 ![image](https://github.com/user-attachments/assets/b4a822a2-5fa2-4074-861f-d84c7d07152a)
@@ -27,9 +35,6 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ![image](https://github.com/user-attachments/assets/2dc219ce-32e3-4eb2-93e6-b7eeca1a5c54)
 
-## Ivy
-
-![image](https://github.com/user-attachments/assets/672ae3fc-a8d2-4b6a-8920-d3f6e9c51a1e)
 
 
 
