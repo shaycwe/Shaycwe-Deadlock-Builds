@@ -21,7 +21,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Ivy (Support)
 
-![image](https://github.com/user-attachments/assets/8fa739eb-99af-4f6d-9ee0-0e01f04b7ad8)
+![image](https://github.com/user-attachments/assets/d06bf672-f851-4b8f-8a1f-37ff4bd8187b)
 
 ## Infernus
 
