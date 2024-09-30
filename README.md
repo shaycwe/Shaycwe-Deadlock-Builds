@@ -17,7 +17,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Ivy (Spirit)
 
-![image](https://github.com/user-attachments/assets/1a5b4d00-506d-457d-b86f-de98adc84a41)
+![image](https://github.com/user-attachments/assets/0132f096-0b0a-494d-9a29-b1ebddc7e5c7)
 
 ## Ivy (Support)
 
