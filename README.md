@@ -41,7 +41,8 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## McGinnis (Spirit)
 
-![image](https://github.com/user-attachments/assets/72f4131c-393e-43a4-9c3b-370ec368de32)
+![image](https://github.com/user-attachments/assets/3be5995b-fd17-4484-bc57-e4f4e7f771e0)
+
 
 
 
