@@ -13,7 +13,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Infernus
 
-![image](https://github.com/user-attachments/assets/fb1085a1-5129-4318-ac3e-24ef4b1c82bf)
+![image](https://github.com/user-attachments/assets/7ff48cc9-965e-4aeb-9b10-5c9296bd6d33)
 
 ## Ivy (Gun)
 
