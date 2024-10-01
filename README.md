@@ -11,6 +11,10 @@ If you want to use any of the below builds in-game, navigate to the **Public** t
 
 All builds on this page are constantly updating and refining, so if using them in-game, expect to see changes from time to time.
 
+## Infernus
+
+![image](https://github.com/user-attachments/assets/226c94e3-6378-47df-ac2f-5051f446b563)
+
 ## Ivy (Gun)
 
 ![image](https://github.com/user-attachments/assets/e8588b66-31a8-44ee-9144-8016fe7787b7)
@@ -22,10 +26,6 @@ All builds on this page are constantly updating and refining, so if using them i
 ## Ivy (Support)
 
 ![image](https://github.com/user-attachments/assets/d06bf672-f851-4b8f-8a1f-37ff4bd8187b)
-
-## Infernus
-
-![image](https://github.com/user-attachments/assets/b4a822a2-5fa2-4074-861f-d84c7d07152a)
 
 ## Bepop
 
