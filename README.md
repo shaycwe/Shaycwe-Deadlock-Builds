@@ -11,6 +11,10 @@ If you want to use any of the below builds in-game, navigate to the **Public** t
 
 All builds on this page are constantly updating and refining, so if using them in-game, expect to see changes from time to time.
 
+## Shiv
+
+![image](https://github.com/user-attachments/assets/dad106eb-9993-4b7c-bfb5-ed100d62859a)
+
 ## Infernus
 
 ![image](https://github.com/user-attachments/assets/b5b786c4-7f1c-450d-8f43-f5e564ccdc43)
@@ -42,10 +46,6 @@ All builds on this page are constantly updating and refining, so if using them i
 ## McGinnis (Spirit)
 
 ![image](https://github.com/user-attachments/assets/a13f253f-1b86-4fa4-9734-bcf77eb31d48)
-
-## Shiv
-
-![image](https://github.com/user-attachments/assets/dad106eb-9993-4b7c-bfb5-ed100d62859a)
 
 
 
