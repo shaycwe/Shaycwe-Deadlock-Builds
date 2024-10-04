@@ -13,7 +13,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Shiv
 
-![image](https://github.com/user-attachments/assets/708db89e-eb13-44e6-b09e-4013f9f39ad9)
+![image](https://github.com/user-attachments/assets/5b4df6ef-62fb-4a36-979c-caed92255171)
 
 ## Infernus
 
