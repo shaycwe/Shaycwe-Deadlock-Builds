@@ -17,7 +17,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Abrams
 
-![image](https://github.com/user-attachments/assets/4fe92d96-f232-485e-9ba1-f0f3e542e6ac)
+![image](https://github.com/user-attachments/assets/f01256ee-c129-4891-a953-cb942c705d8d)
 
 ## Infernus
 
