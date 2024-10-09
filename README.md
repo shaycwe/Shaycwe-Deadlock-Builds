@@ -17,7 +17,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Grey Talon
 
-
+![image](https://github.com/user-attachments/assets/4d7d5045-6351-4886-89d4-b09a2e8089ca)
 
 ## Abrams
 
