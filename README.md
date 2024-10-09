@@ -15,6 +15,10 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ![image](https://github.com/user-attachments/assets/45f58fb2-5f42-45ca-a6da-81b040cb89bd)
 
+## Grey Talon
+
+
+
 ## Abrams
 
 ![image](https://github.com/user-attachments/assets/c15c56f6-17c6-4ae5-bfbc-fc064549fe65)
