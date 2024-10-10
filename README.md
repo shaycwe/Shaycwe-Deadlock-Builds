@@ -21,7 +21,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Haze
 
-![image](https://github.com/user-attachments/assets/78f8646c-45e4-4804-a849-2d88cf9e7498)
+![image](https://github.com/user-attachments/assets/1004b15d-ccc7-4ac6-99a7-c94505c5edd5)
 
 ## Abrams
 
