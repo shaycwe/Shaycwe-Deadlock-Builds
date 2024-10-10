@@ -19,6 +19,10 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ![image](https://github.com/user-attachments/assets/a305e03a-1e4b-494a-a5ff-bdfbb0d91ea6)
 
+## Haze
+
+![image](https://github.com/user-attachments/assets/ffb131ad-9cf0-4082-bb05-874492ff40fe)
+
 ## Abrams
 
 ![image](https://github.com/user-attachments/assets/c15c56f6-17c6-4ae5-bfbc-fc064549fe65)
@@ -54,7 +58,6 @@ All builds on this page are constantly updating and refining, so if using them i
 ## McGinnis (Spirit)
 
 ![image](https://github.com/user-attachments/assets/a13f253f-1b86-4fa4-9734-bcf77eb31d48)
-
 
 
 
