@@ -15,6 +15,10 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ![image](https://github.com/user-attachments/assets/45f58fb2-5f42-45ca-a6da-81b040cb89bd)
 
+## Warden
+
+![image](https://github.com/user-attachments/assets/e237f218-e6d0-4ed3-b0ac-bb248bacf2ce)
+
 ## Grey Talon
 
 ![image](https://github.com/user-attachments/assets/a305e03a-1e4b-494a-a5ff-bdfbb0d91ea6)
