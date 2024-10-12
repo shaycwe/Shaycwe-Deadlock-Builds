@@ -17,7 +17,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Warden
 
-![image](https://github.com/user-attachments/assets/87de7cd4-a050-458e-9e0d-7706612c8c7a)
+![image](https://github.com/user-attachments/assets/19967ed0-6901-4c07-b2af-d0d9cf4430c4)
 
 ## Grey Talon
 
