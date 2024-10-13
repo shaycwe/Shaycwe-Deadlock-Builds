@@ -15,6 +15,14 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ![image](https://github.com/user-attachments/assets/45f58fb2-5f42-45ca-a6da-81b040cb89bd)
 
+## Haze
+
+![image](https://github.com/user-attachments/assets/fbaf4d2a-b8bf-46d5-9621-6e2b58538238)
+
+## Wraith
+
+![image](https://github.com/user-attachments/assets/394d39f8-c58b-4092-910a-cb8ba6a3ecef)
+
 ## Warden
 
 ![image](https://github.com/user-attachments/assets/05ef388e-2701-415b-a2af-f9bec9e519b5)
@@ -22,10 +30,6 @@ All builds on this page are constantly updating and refining, so if using them i
 ## Grey Talon
 
 ![image](https://github.com/user-attachments/assets/a305e03a-1e4b-494a-a5ff-bdfbb0d91ea6)
-
-## Haze
-
-![image](https://github.com/user-attachments/assets/fbaf4d2a-b8bf-46d5-9621-6e2b58538238)
 
 ## Abrams
 
