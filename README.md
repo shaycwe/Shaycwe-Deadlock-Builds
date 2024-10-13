@@ -21,7 +21,7 @@ All builds on this page are constantly updating and refining, so if using them i
 
 ## Wraith
 
-![image](https://github.com/user-attachments/assets/b6b3e3bb-37ae-418a-94f6-a02d9ba6a14a)
+![image](https://github.com/user-attachments/assets/7afe52a6-f7f2-424e-9ec5-93643eedcb12)
 
 ## Warden
 
